@@ -1,6 +1,9 @@
 This repository contains my projects on Power BI
 
-I have experienced on using Power BI. I have even completed one order on my freelancing career as a data scientist on Fiverr with the job of creating Power BI dashboards.
+I have experienced on using Power BI. I have even completed one order on my freelancing career as a data scientist on Fiverr with the job of creating Power BI dashboards. Here is a snapshot of all my projects on Power BI:
+
+![Screenshot (30)](https://github.com/user-attachments/assets/da3d00e7-68e6-48ab-80f3-f6ef95c337e4)
+
 
 **First Project: adultreport**
 
